@@ -46,16 +46,7 @@
        "quickSearch":1,
        "filterable":1
        },
-      {
-      "key":"优众影视",
-      "name":"优众影视",
-      "type":3,
-      "api":"csp_AppYs",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://121.205.88.194:7878/xgapp.php/v2/"
-    },
+      
       {
       "key": "影图",
       "name": "影图(聚)",
@@ -472,16 +463,7 @@
             "filterable":0,
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/jbb.json"
         },
-        {
-            "key": "ysgc",
-            "name": "影视工厂(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/ysgc.json"
-        },
+        
         {
             "key": "瓜皮",
             "name": "瓜皮(XB)",
@@ -522,16 +504,7 @@
             "filterable":0,
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/mjc.json"
         }, 
-        {
-            "key": "乐猪XB",
-            "name": "乐猪(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/lzys.json"
-        },
+        
     {
       "key": "csp_xpath_cls",
       "name": "🍭磁力搜索(XP)",
