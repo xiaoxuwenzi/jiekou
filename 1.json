@@ -1,6 +1,6 @@
 
 {
-       "spider":"https://github.com/xiaoxuwenzi/jiekou/blob/4948464d99a9e984b412194c23c5f3a8e09214a1/0928.jar;md5;376133C9E7DE6D9068639BEB1D5EB0E8",
+       "spider":"https://github.com/xiaoxuwenzi/jiekou/blob/4948464d99a9e984b412194c23c5f3a8e09214a1/0928.jar?raw=true;md5;5E873371FE017C1173BF9090BF066BDB",
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
